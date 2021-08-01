@@ -18,7 +18,7 @@ Linear regression is a linear model, and it assumes a linear relationship betwee
     - [code practice](https://github.com/eunjijeon11/machine_learning_at_highschool/blob/master/linear_regression/%EC%9D%B8%EA%B5%AC-%EC%9D%B8%EA%B5%AC%EB%B0%80%EB%8F%84/population_density.py)  
 
 ## 2. Naive Bayes classifier 
-In statistics, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naïve) independence assumptions between the features (see Bayes classifier). Bayes' theorem is based on conditional probability(조건부확률).  
+In statistics, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naïve) independence assumptions between the features. Bayes' theorem is based on conditional probability(조건부확률).  
 - movie recommendation(2020 자율동아리)
     - [code practice](https://github.com/eunjijeon11/machine_learning_at_highschool/blob/master/naive_bayes/movie_recommend/movie_recommendation.py)
     - [used dataset](https://github.com/eunjijeon11/machine_learning_at_highschool/blob/master/naive_bayes/movie_recommend/tmdb_5000_movies.csv)
@@ -36,7 +36,7 @@ In statistics, naive Bayes classifiers are a family of simple "probabilistic cla
 ## 5. MLP(Multiple layer perceptron)
 - Single layer perceptron(2020 독서)
     - [code practice](https://github.com/eunjijeon11/machine_learning_at_highschool/blob/master/MLP/perceptron/%EB%8B%A8%EC%B8%B5%20%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0.py)
-- Chain Rule for Backwardpropagation(2021 미적분)
+- Chain Rule for Backpropagation(2021 미적분)
 
 ## 6. GAN(Generative Adverserial Network)  
 - original GAN(2021 확률과 통계)
