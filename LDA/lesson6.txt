@@ -1,0 +1,375 @@
+Robots from Imagination to Reality
+
+상상에서 현실의 로봇
+
+ 
+
+From the Tin Man in The Wizard of Oz and R2D2 in Star Wars to the more recent Transformers, robots have inspired many little future scientists.
+
+<오즈의 마법사>에 나오는 양철인간에서 <스타워즈>의 R2D2를 거쳐 좀 더 최근의 <트랜스포머>까지, 로봇들은 수많은 미래의 과학 꿈나무들에게 영감을 주었다.
+
+ 
+
+Modern children have played with robot toys, watched robot animations, and read robot stories.
+
+현대의 아이들은 로봇 장난감을 갖고 놀고 로봇 애니메이션을 보았으며 로봇 이야기를 읽었다.
+
+ 
+
+Those kids have eventually grown up to lead the frontiers of robot technology, changing the shape of the future world.
+
+이 아이들은 결국 성장해 첨단 로봇 기술의 새로운 영역을 이끌며 미래 세계의 형태를 변화시키고 있다.
+
+
+ 
+ 
+
+The incredible history of robots is all about science catching up with human imagination, a constant dialog between imaginative fiction and actual scientific discoveries.
+
+로봇의 놀라운 역사는 인간의 상상력을 따라잡는 과학, 즉 가상의 허구와 실제 과학적 발견의 꾸준한 대화이다.
+
+ 
+
+The concept of or the desire for robot-like creatures traces far back, almost to the birth of human imagination.
+
+로봇의 개념, 혹은 그 비슷한 피조물에 대한 욕망은 아주 오래 전, 거의 인간 상상력의 기원으로 거슬러 올라간다.
+
+ 
+
+In The Iliad, Homer tells the myth of Hephaistos, the Greek god of metal working, who has helpers made of gold that spin and weave.
+
+<일리아드>에서 호메로스(Homer)는 대장장이의 신 헤파이스토스의 신화를 들려주는데, 그는 금으로 도우미들을 만들어 실을 잣고 베를 짜게 했다고 한다.
+
+ 
+
+This and many other ancient stories show that people have long dreamed of inanimate creatures that can do their monotonous or difficult work.
+
+이 이야기와 여러 다른 오래된 이야기들은 사람들이 오랫동안 단조롭거나 어려운 일을 대신 해줄 수 있는 무생물을 꿈꾸었다는 사실을 보여준다.
+
+ 
+***
+Then, in early modern times, the first invention that laid the foundation for robotics was perfected ― clocks.
+
+
+ 
+그러다가 근대 초입에 로봇 공학의 토대를 다진 최초의 발명품이 완성되었는데, 바로 시계였다.
+
+ 
+
+The mechanisms that ran them were called "clockworks."
+
+시계를 움직이는 기계 장치는 '시계태엽장치'라고 불렸다.
+
+ 
+
+The 17th century is known to have been the golden age of "clockwork automatons."
+
+17세기는 '시계태엽장치 자동 인형'의 황금기로 유명하다.
+
+ 
+
+Walking toy soldiers were built, along with toy ducks that drank water and toy boys that over and over would write a single letter with a pen.
+
+걸어 다니는 장난감 병정들이 제작되고, 이뿐 아니라 물을 마시는 장난감 오리들과 펜으로 한 글자를 끝없이 반복해서 쓰는 장난감 소년들도 만들어졌다.
+
+ 
+
+These moving dolls were distant ancestors to today's robots.
+
+이 움직이는 인형들은 오늘날 로봇들의 먼 조상이었다.
+
+ 
+
+They were merely capable of repeating the same action.
+
+이것들은 똑같은 행동을 단순히 반복할 줄밖에 몰랐다.
+
+ 
+
+Still, they marked the beginning of modern mechanical engineering and kept alive the dream of robots.
+
+그래도 이것들은 현대 기계 공학의 시초가 되었으며 로봇의 꿈을 살려두었다.
+
+ 
+***
+Further advances of mechanical engineering have given sharper edges to the imaginary machines that work for human beings.
+
+기계 공학이 더욱 발달하자 인간들을 위해 일하는 가상의 기계들의 윤곽선이 더 뚜렷해졌다.
+
+ 
+
+The term "robot," referring to such artificial creatures, was first coined in Czech writer Karel Capek's play, Rossum's Universal Robots (1920).
+
+그런 인위적 피조물들을 가리키는 '로봇'이라는 말은 체코의 작가 카렐 차페크(Karel Capek)의 희곡 <로섬의 보편 로봇들>(1920)에서 처음 만들어진 신조어였다.
+
+ 
+
+Robot is a Czech word for slave.
+
+로봇은 체코 말로 노예를 뜻한다.
+
+ 
+
+In this play, robots are specifically made to do the hard labor so that human beings can live lives of leisure and comfort.
+
+이 희곡에서, 중노동을 하도록 특수 제작된 로봇 덕분에 인간들은 한가로이 편안한 삶을 누릴 수 있게 된다.
+
+
+ 
+ ***
+
+This vision of automatic workers did not take long to be realized.
+
+자동 노동자라는 이 비전이 현실화되기까지는 오래 걸리지 않았다.
+
+ 
+
+In 1937, the earliest known industrial robot was completed, opening the first phase of robotics ― the age of industrial robots.
+
+1937년, 알려진 최초의 산업용 로봇이 완성되었고, 로봇 공학의 제 1기를 열었다. 산업용 로봇의 시대 말이다.
+
+ 
+
+Industrial robots, though having made fast progress since then, are not yet thinking machines which can act independently.
+
+산업용 로봇은 그 후로 급속히 발전했으나 아직 독자적으로 행동할 수 있는 생각하는 기계는 아니다.
+
+ 
+
+They are more like advanced clockworks, although far more precisely operated.
+
+훨씬 더 정교하게 작동되긴 하지만 산업용 로봇은 오히려 진보된 태엽장치에 가깝다.
+
+ 
+
+Now, industrial robots can be seen to do hard labor everywhere around us, especially in factories and laboratories.
+
+현재는 우리 주위 어디에서나, 특히 공장과 실험실에서 중노동을 하는 산업용 로봇들을 볼 수 있다.
+
+ 
+
+They perform repetitive and dangerous tasks, lift heavy objects, conduct tests in severe environments, or help medical doctors with difficult operations.
+
+산업용 로봇들은 반복적이고 위험한 작업을 수행하고 무거운 물건을 들어 올리고 혹독한 환경에서 실험을 하거나 의사들이 어려운 수술을 하는 것을 돕는다.
+
+ 
+
+Products are manufactured infinitely faster and cheaper than before, thanks to them.
+
+덕분에 예전보다 상품의 생산이 굉장히 빠르고 저렴해졌다.
+
+ 
+
+They are sent deep into the sea, into volcanoes, and even to other planets where they are subjected to extreme conditions, doing what humans might be supposed to do at the risk of their lives.
+
+산업용 로봇들은 깊은 바다 속으로, 화산 속으로, 심지어 극한 상황에 처해야 하는 다른 행성에 보내져서 인간이 목숨을 걸고 해야 할 일들을 대신한다.
+
+ 
+
+Modern industrial robots have significantly contributed to comfort and safety in work environments.
+
+현대의 산업용 로봇은 작업환경의 편리와 안전에 중요한 공헌을 하고 있다.
+
+ ***
+
+Now, for the first time in human history, robots are about to evolve into independent, "living" creatures.
+
+이제 인간 역사상 처음으로 로봇들이 독립적이고 '살아있는' 피조물로 진화하기 일보직전이다.
+
+ 
+
+The invention of artificial intelligence (AI) broke a barrier no human generation had ever reached before, and nobody knows for sure what might become of the innovative leap.
+
+인공지능(AI)의 발명은 인류의 어떤 세대도 뚫지 못한 장벽을 허물었고, 아무도 이 혁신적 도약이 어떤 결과를 낳을지 확실히 알지 못한다.
+
+ 
+
+So far, the prospect seems to have stirred more fears than hopes.
+
+지금까지의 전망은 희망보다는 두려움을 더 많이 초래한 것 같다.
+
+ 
+
+In 2016, for example, when Google's AlphaGo beat the world's elite go players, one by one, the shock and dread that robots might finally assume "life" struck the global population.
+
+예를 들어 2016년 구글의 알파고가 세계 최고의 바둑 기사들을 하나씩 물리치고 승리하자 로봇들이 마침내 '생명'의 특징을 띠게 될지도 모른다는 충격과 두려움이 전 세계 사람들에게 실감나게 다가왔다.
+
+ 
+
+The fear was that an independent creature might someday escape human control.
+
+그 공포는 독자적인 창조물이 언젠가는 인간의 통제를 벗어날지도 모른다는 데 있었다.
+
+ 
+
+The fear that human beings might create a living thing that cannot be controlled is not new.
+
+인간들이 통제되지 않는 생명체를 창조할지도 모른다는 두려움은 새로운 게 아니다.
+
+ 
+
+It is called Frankenstein anxiety and owes its name to the novel ― Frankenstein (1818) by Mary Shelley.
+
+이 두려움은 프랑켄슈타인의 불안이라고 불리며, 이 이름은 메리 셸리(Mary Shelley)가 지은 소설 <프랑켄슈타인>(1818)에서 따온 것이다.
+
+ 
+
+In this book, scientist Victor Frankenstein collects pieces of dead bodies and from them creates a "Monster."
+
+이 책에서 과학자 빅터 프랑켄슈타인(Victor Frankenstein)은 죽은 시체의 토막들을 모아 그로부터 '괴물'을 만들어낸다.
+
+ 
+
+The Monster turns out to have superb intelligence and eventually turns against its creator, with dreadful results.
+
+알고 보니 괴물은 고도의 지능을 지니고 있었고 결국 창조주에게 등을 돌리고 끔찍한 결과들을 초래한다.
+
+ 
+
+After Shelley, in the genre of science fiction, countless artificial beings were depicted as becoming dangerous.
+
+셸리 이후로 과학 소설의 장르에서 헤아릴 수 없이 많은 인공적 창조물들이 위험하게 돌변하는 것으로 그려졌다.
+
+ 
+
+Human beings were seen to be replaced with their own creation.
+
+인간들은 자기가 만든 피조물들에게 대체되는 것으로 묘사되었다.
+
+ 
+
+In the movie The Terminator, released in the 1980s, highly developed AI robots finally decide to wipe the human race off the face of the earth.
+
+1980년대에 개봉한 영화 <터미네이터>에서 고도로 발달한 AI 로봇들은 마침내 지상에서 인류를 말살시키기로 결정한다.
+
+ 
+
+If robots are supposed to follow the way of human imagination, we see a horrible future ahead, don't we?
+
+로봇들이 인간의 상상력을 따라 발전하게 된다면, 우리의 앞날에는 끔찍한 미래가 기다리고 있을 것이다, 그렇지 않은가?
+
+ 
+
+Maybe, but probably not.
+
+그럴 수도 있지만 아마도 그렇게 되지 않을 것이다.
+***
+ 
+
+Fictional imagination concerning robots not only rang warning bells but also offered a way forward.
+
+로봇에 관한 허구의 상상력은 경고의 종을 울렸을 뿐 아니라 앞으로의 길도 제시했다.
+
+ 
+
+Isaac Asimov, sometimes referred to as the father of science fiction, who first coined the word "robotics," saw no point in too much worry.
+
+가끔 과학 소설의 아버지로 불리기도 하며 '로봇 공학'이라는 말을 처음 만들어낸 아이작 아시모프(Isaac Asimov)는 지나친 근심을 할 필요가 전혀 없다고 생각했다.
+
+ 
+
+He pointed out that robots are machines ― advanced, but still machines.
+
+그는 로봇들이 기계라는 점을 지적했는데, 진보한 기계이지만 여전히 기계다.
+
+ 
+
+He believed that safety factors should be built into robots, as well as into other machines like cars and planes.
+
+그는 자동차나 비행기 같은 다른 기계들처럼 안전을 보장하는 요소들이 로봇에 장착될 수 있다고 보았다.
+
+ 
+
+The safety measures Asimov devised for his fictional robots were the famous "Three Fundamental Laws of Robotics."
+
+아시모프가 자신이 상상한 로봇들을 위해 고안한 안전 조치들은 유명한 '로봇 공학의 3원칙'이다.
+
+ 
+
+The Laws set the priorities for robotic behavior.
+
+이 원칙들은 로봇의 행위에 우선순위를 정했다.
+
+ 
+
+At all cost, human life should be protected.
+
+어떤 대가를 치르더라도 인간의 생명은 보호해야 한다.
+
+ 
+
+In his fictional world full of robots, the Laws are enforced without exception.
+
+로봇들로 가득한 소설 속의 세계에서 이 원칙들은 예외 없이 지켜진다.
+
+ 
+
+Asimov's fictional vision has proved insightful and has helped global leaders to plan and prepare for the future.
+
+아시모프의 허구적 비전은 통찰력이 있는 것으로 밝혀졌고 전 세계 지도자들이 미래를 계획하고 준비하는 데 도움을 주었다.
+***
+ 
+
+In 2011, British scientists, engineers, and scholars suggested that designers, builders, and users of robots follow five ethical principles.
+
+2011년 영국의 과학자들, 공학자들, 학자들은 로봇의 설계자, 제작자, 이용자들이 5개의 윤리적인 원칙을 따라야 한다고 제안했다.
+
+ 
+
+The principles focus on human safety, making it clear that robots should serve human beings.
+
+이 원칙들은 로봇이 인간을 위해 봉사해야 한다는 점을 분명히 하면서 인간의 안전에 초점을 맞춘다.
+
+ 
+
+Similar actions have followed.
+
+유사한 조치들이 잇달아 취해졌다.
+
+ 
+
+In February, 2017, the European Parliament approved a resolution calling for the creation of laws on robotics, based on Asimov's Three Laws of Robotics.
+
+2017년 2월 유럽의회는 아시모프의 로봇 공학의 3원칙에 근거해 로봇 제작의 법규를 제정해야 한다는 의결을 승인했다.
+
+ 
+
+Our future with thinking robots is now upon us.
+
+생각하는 로봇들과 함께 하는 우리의 미래가 임박했다.
+
+ 
+
+We cannot just stop developing them because of undue fears.
+
+우리는 지나친 두려움 때문에 로봇 제작을 그냥 중단할 수는 없다.
+
+ 
+
+Whether it will turn out to be a dream or a nightmare depends on our conscious choices and actions.
+
+꿈이 될지 악몽이 될지는 우리의 의식적 선택과 행동들에 달려 있다.
+
+ 
+
+Thorough discussions and constant monitoring are essential in guiding us in the right direction for robot development.
+
+철저한 논의와 꾸준한 감시가 우리를 로봇 개발의 올바른 방향으로 인도하는 데 필수적이다.
+
+ 
+
+We do not have to be too afraid, but we should be wiser and more considerate in picturing and planning for a future with robots, carefully weighing many different possibilities.
+
+지나치게 두려워할 필요는 없지만 우리는 로봇과의 미래를 상상하고 계획하는 데 있어 더 현명하고 사려 깊어야 하며 수많은 다양한 가능성들을 세심하게 가늠해야 한다.
+
+ 
+
+Imagination, a uniquely human characteristic, will prove helpful once again.
+
+유일한 인간의 특성인 상상력은 다시 한 번 도움이 될 것이다.
+
+ 
+
+As a famous robotics engineer once said, "Robots will go as far as human imagination can take them."
+
+유명한 로봇 공학자가 언젠가"로봇들은 인간의 상상력이 데려갈 수 있는 곳까지 따라갈 것이다."라고 말했다.
