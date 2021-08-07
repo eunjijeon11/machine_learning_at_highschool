@@ -11,7 +11,7 @@ contents
 
 ---------------------------------------------------------------
 ## 1. Linear regression  
-Linear regression is a linear model, and it assumes a linear relationship between the input variable(x) and the single output variable(y). It uses MSE(Mean squared Error) for its cost function. To find optimal point of the cost function, I used gradient Gradient Descendant.
+Linear regression is a linear model, and it assumes a linear relationship between the input variable(x) and the single output variable(y). It uses MSE(Mean squared Error) for its cost function. To find optimal point, I used gradient Gradient Descendant.
 - linear regression(2020 수학)
     - [code practice](https://github.com/eunjijeon11/machine_learning_at_highschool/blob/master/linear_regression/%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80/%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80.py)  
 - reducing population density distribution(2020 스크랜튼 확률캠프)
