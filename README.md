@@ -1,4 +1,4 @@
-# machine_learning_at_highschool
+# machine_learning_in_highschool
 This is my machine learning study log from 2020 to 2021😎  
 We welcome any questions or corrections! Please put it on the issue tab😊  
 The English version will be uploaded after my SAT exam...
