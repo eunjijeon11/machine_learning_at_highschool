@@ -39,7 +39,7 @@ In statistics, naive Bayes classifiers are a family of simple "probabilistic cla
     - [code practice](https://github.com/eunjijeon11/machine_learning_at_highschool/blob/master/MLP/perceptron/%EB%8B%A8%EC%B8%B5%20%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0.py)
 - Chain Rule for Backpropagation(2021 미적분)
 
-## 6. GAN(Generative Adversrial Network)  
+## 6. GAN(Generative Adverserial Network)  
 - original GAN(2021 확률과 통계)
     - [original paper](https://arxiv.org/abs/1406.2661)
     - [paper review & code practice](https://github.com/eunjijeon11/machine_learning_at_highschool/blob/master/GAN/GAN.ipynb)
